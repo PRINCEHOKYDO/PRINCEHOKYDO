@@ -36,8 +36,13 @@
 
 <h2 align="left">📊 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PRINCEHOKYDO&theme=tokyonight" alt="PRINCEHOKYDO" />
-<img src="https://github-readme-stats.vercel.app/api?username=PRINCEHOKYDO&show_icons=true&hide_border=true&theme=tokyonight" 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRINCEHOKYDO&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=PRINCEHOKYDO&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCEHOKYDO&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+</div>
 </p>
 
 ## Wanna know more? Connect me on:
