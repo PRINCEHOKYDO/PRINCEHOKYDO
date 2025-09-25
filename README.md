@@ -1,4 +1,4 @@
-![Purple Modern Business Business Development Linkedin Banner Cover](https://user-images.githubusercontent.com/73196470/161052563-0ddba6da-611d-4387-97cc-0c64e0fb6a7e.gif)
+![Purple Modern Business Business Development Linkedin Banner Cover](https://github.com/PRINCEHOKYDO/PRINCEHOKYDO/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.gif?raw=true)
 
 
 # Hi there, I am [ShriKrushna](https://www.linkedin.com/in/krishna-nit/) <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
