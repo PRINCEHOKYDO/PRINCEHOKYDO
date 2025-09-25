@@ -29,7 +29,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+[MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -37,9 +37,9 @@
 <h2 align="left">📊 Github Statistics </h2>
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-nit&theme=tokyonight" alt="krishna-nit" />
-<img src="https://github-readme-stats.vercel.app/api?username=krishna-nit&show_icons=true&hide_border=true&theme=tokyonight" alt="krishna-nit" />
-
+![](https://github-readme-stats.vercel.app/api?username=PRINCEHOKYDO&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PRINCEHOKYDO&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCEHOKYDO&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </p>
 
 ## Wanna know more? Connect me on:
