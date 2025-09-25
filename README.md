@@ -41,7 +41,7 @@
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=PRINCEHOKYDO&theme=dark&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCEHOKYDO&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+ 
 </div>
 </p>
 
