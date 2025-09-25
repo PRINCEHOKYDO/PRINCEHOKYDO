@@ -1,25 +1,23 @@
 ![Purple Modern Business Business Development Linkedin Banner Cover](https://github.com/PRINCEHOKYDO/PRINCEHOKYDO/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.gif?raw=true)
 
 
-# Hi there, I am [ShriKrushna](https://www.linkedin.com/in/krishna-nit/) <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
+# Hi there, I am [Shivam](https://www.linkedin.com/in/shivambeniwal/) <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
 
 <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="250px" align="right"/>
 
 
-- 👨‍🎓 I’m currently a Final Year Information Technology Undergraduate at NIT Raipur.
-- 👨‍🎓 I’m currently a Final Year Information Technology undergrad at NIT Raipur.
+- 👨‍🎓 I’m currently a Final Year Information Technology Undergraduate at MAIT.
 - 👩‍💻 I enjoy playing and analyzing with data.
 - 🤝 I’m looking forward to working on data to help out with some good business decisions.
 - 🏆 I like to participate in Hackathons and build new projects
-- 🏆 I like to participate in Hackathons and build new products
 
 
-## 🚀 My Achievements
-- Rank 3 in CodeUtsava 2023
-- Rank 6 in HACKNITRR 22'
-- Among Top 20 Contributor in SWOC (Script Winter of Code) (Open Source)
-- Rank 138 out of 1100 Participants in GSSoC 2021
-- Selected for Finals of CodeUtsava NITRR 2022
+
+## 🚀 My Achievements & Recognitions
+- Letter of Recommendation from the Additional Director of Career and Development Cell, MAIT
+- Letter Of Appreciation From Chairman, MATES
+- CASIEST(Case Study Competition) finalist 2024
+- HackerRank 5 Star⭐️ SQL Coder.
 
 <hr/>
 
@@ -33,8 +31,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 
 <h2 align="left">📊 Github Statistics </h2>
@@ -47,10 +43,10 @@
 
 ## Wanna know more? Connect me on:
 
-<a href="https://www.linkedin.com/in/krishna-nit/" target="_blank">
+<a href="https://www.linkedin.com/in/shivambeniwal/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href = "mailto:krish30jan@gmail.com" target = "_blank">
+<a href = "mailto:shivam9july@gmail.com" target = "_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
